@@ -14,4 +14,4 @@ management:
       show-details: ALWAYS
 greeting-service:
   greeting: "Pronto"
-  default-value: "Mondo"
+  default-value: "Mondo..."
